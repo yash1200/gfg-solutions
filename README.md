@@ -1,6 +1,6 @@
 # gfg-solutions
 
-A repo for must do coding interview questions GFG solutions in cpp.
+A repo for solutions of must do coding interview GFG questions in cpp.
 
 Link to the questions : https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 
